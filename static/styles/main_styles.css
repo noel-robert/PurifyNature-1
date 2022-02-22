@@ -326,7 +326,7 @@ section
 	visibility: hidden;
 	
 	/*opacity: 0;*/
-	opacity; 25;
+	opacity: 25;
 	
 	-webkit-transition: all 200ms ease;
 	-moz-transition: all 200ms ease;
