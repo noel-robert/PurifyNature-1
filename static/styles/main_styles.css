@@ -326,7 +326,7 @@ section
 	visibility: hidden;
 	
 	/*opacity: 0;*/
-	opacity: 25;
+	opacity: 100;
 	
 	-webkit-transition: all 200ms ease;
 	-moz-transition: all 200ms ease;
@@ -361,7 +361,8 @@ section
 	font-family: 'Oswald', sans-serif;
 	font-size: 18px;
 	font-weight: 500;
-	color: #FFFFFF;
+/* 	color: #FFFFFF; */
+	color: #696969;
 }
 .header_social
 {
