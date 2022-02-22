@@ -100,7 +100,10 @@ p a:active
 }
 p a:hover
 {
-	color: #FFFFFF;
+	
+/* 	color: #FFFFFF; */
+	color: #696969;
+	
 	background: #ffa07f;
 }
 p a:hover::after
