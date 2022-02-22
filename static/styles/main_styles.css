@@ -531,7 +531,8 @@ section
 }
 .menu_content ul li a:hover
 {
-	color: rgba(0,0,0,0.5);
+/* 	color: rgba(0,0,0,0.5); */
+	color: #696969;
 }
 .menu_social
 {
@@ -544,7 +545,10 @@ section
 	font-family: 'Oswald', sans-serif;
 	font-size: 18px;
 	font-weight: 500;
-	color: rgba(0,0,0,0.5);
+	
+/* 	color: rgba(0,0,0,0.5); */
+	color: #696969;
+	
 	margin-bottom: 10px;
 }
 .menu_social ul li:not(:last-child)
