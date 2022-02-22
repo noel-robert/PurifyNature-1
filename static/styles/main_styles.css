@@ -294,7 +294,10 @@ section
 	font-family: 'Oswald', sans-serif;
 	font-size: 30px;
 	font-weight: 500;
-	color: #FFFFFF;
+	
+	/*color: #FFFFFF;*/
+	color: #696969;
+	
 	line-height: 0.75;
 }
 .main_nav
@@ -321,7 +324,10 @@ section
 	background: #FFFFFF;
 	content: '';
 	visibility: hidden;
-	opacity: 0;
+	
+	/*opacity: 0;*/
+	opacity; 25;
+	
 	-webkit-transition: all 200ms ease;
 	-moz-transition: all 200ms ease;
 	-ms-transition: all 200ms ease;
